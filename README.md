@@ -28,3 +28,8 @@ I havent seen much differnece in speed so in the latest I am using the simpler g
 You can also have some freedom to deal with the video feed
 
 the final speed of the visualization may depend on the speed of the computer and camera the video is runnin on
+
+particleShowerVideo2 I have scaled the velocity like the javascript version the drops fall faster
+
+particleShowerVideo  the velocity is not scaled and moves slower
+
